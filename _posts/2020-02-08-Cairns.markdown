@@ -3,9 +3,12 @@ layout: post
 title:  "Diving in the Great Barrier Reef"
 date:   2020-02-08 21:38:53 +0700
 categories: Australia
----
-#  Diving in GBR near Cairns
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: GBRGarden.jpg # Add image post (optional)
+tags: [Blog, Australia, Great Barrier Reef]
+author: Oksana Protsukha # Add name author (optional)
 
+---
 #### Day 1: 2020-Feb-06
 
 We made an opportunistic decision to come diving at GBR during our walk in Akaroa, a little quaint town known for its French heritage, on our last day in New Zealand. All we had booked for our trip in Australia at the time was our flight to Brisbane and one week later a flight from Sydney to Hobart. We had a vague idea of what to do in between. Great Barrier Reef seemed like a place not to be missed considering the grave forecast that it might disappear by 2050. 
@@ -20,7 +23,8 @@ We arrived past midnight on Feb 6th and got to our hostel shortly after 1 am. Th
 After few hours of sleep and still half dreaming, we went to hunt for an overnight boat tour to GBR. It didn’t take long to get a reminder that we were in Australis. Few meters from our hostel and right in the touristy center of the town we stumbled upon a big tree with a colony of flying foxes. The creatures were restlessly hanging from all over the tree. No one seemed to care about our discovery. People were going about their daily lives without showing a slight interest in the colony. After ten minutes of staring at the flying foxes, we continued on our quest to sign up for the boat tour. 
 Multiple visitor centers and overwhelming amount of options didn’t make things easy. As we discovered there was no official or state-run visitor center and most centers were not locally owned. As it turned out, this was a low or rainy season at Cairns with very few tourists and booking a tour was a breeze. We finally settled on booking an overnight boat tour with a local tour agency who promised us the best experience for the best price. 
 
-Picture of Flying Foxes
+![Flying Foxes]({{site.baseurl}}/assets/img/FlyingFoxes.gif)
+
 
 #### Day 2: Feb-7-2020
 
@@ -29,13 +33,22 @@ We had to do the night dive as a prerequisite. Warm water and multitude of color
 Colorful corals and beautiful harmless fish during the day transformed into dark grayish void filled with big harmless fish searching for food at night: sharks (white, black-tip and gray reef sharks), cod, giant trevally and others. They were following human divers with torch lights lazily looking for food illuminated by curious us. Surprisingly yet, with a touch of light the corals are as a vivid and more as during the day. It .would have been a more fulfilling experience if I were comfortable to dive independently. Perhaps an Advance Open Water Diver certification?..
 Stunning views today and unforgettable experience snorkeling and diving. We decided to do a 6:30 morning dive the next day and two sessions of snorkeling. Not only we were limited by our upcoming flight the following day but try-dives were fairly expensive. 
 
-Picture of shark? Trevally?
+![Loving the first diving experience]({{site.baseurl}}/assets/img/GBROksanaHeart.jpg)
+
+![Shark]({{site.baseurl}}/assets/img/GBRShark.jpg)
+
+![Green Turtle]({{site.baseurl}}/assets/img/GBRTurtle.jpg)
 
 #### Day 3: Feb-8￼-2020
 
 We woke up right before the sunrise and made out way to the upper deck to see the first morning sun. The sky was in full morning glory sprinkled with patches of yellow and pink. Brown booby was relaxing on the boat rail and enjoying the serenity of the morning. He looked at me with little curiosity and let me come close enough to say hello. Spotting boobies in a wild is always magical. 
-Few minutes later it was time for a morning dive at The Fingers. It’s a magical time to be in the water. Little colorful fish have just waken up and start to feed and play in the corals while sharks and their other nocturnal friends have not yet fallen asleep. The water is crystal clear blue, morning sunshine penetrates the depth of the water, the temperature is pleasant and enjoyable to the body. 
-We put our diving gear on and got ready for our last dive. Tomorrow we are flying to Brisbane and no diving is allowed 24 hours before the flight to avoid potentially fatal Decompression sickness disease (DCD). The schools of fish and lonely adventures surrounded us from all sides: trout, sweetlips, parrotfish, butterfly fish, cardinal fish. They mostly seemed to be ignorant of us and continued their breakfast followed by hide and seek game. At times I had an indispensable desire to be part of the school, to attract their attention, to have them play with me... in vain. The colors of the corals ranged from ionic teal to deep purple to orange to pink, making up every single color and more of the color pallet in a modern paint shop. They resembled a fairytale like garden from Alice of the Wonderland. White-tip reef shark seemingly asleep woke up and started scanning for the last final meal of the day. She did not care much about us, divers. Few minutes later eel in a mesmerizing serpentine movement swam below me. Seeing the creature in the water is absolutely stunning. We continued swimming with the multitude of fish among the corals very carefully not to disturb their world. Corals are slow growing and long-lived sea animals. They grow only meager few inches per year, and even a slight damage means years of growth lost. If left not damaged they can greet visitors for the next 800 years! When you get to know them you want to protect them and their fragile ecosystem. 
+Few minutes later it was time for a morning dive at The Fingers. It’s a magical time to be in the water. Little colorful fish just woken up start feeding and playing in the corals while sharks and their other nocturnal friends have not yet fallen asleep. The water is crystal clear blue, morning sunshine penetrates the depth of the water, the temperature is pleasant and enjoyable to the body. 
+We put our diving gear on and got ready for our last dive. Tomorrow we are flying to Brisbane and no diving is allowed 24 hours before the flight to avoid potentially fatal Decompression sickness disease (DCD). The schools of fish and lonely adventurers surrounded us from all sides: trout, sweetlips, parrotfish, butterfly fish, cardinal fish. They mostly seemed to be ignorant of us and continued their breakfast followed by hide and seek game. At times I had an indispensable desire to be part of the school, to attract their attention, to have them play with me... in vain. The colors of the corals ranged from ionic teal to deep purple to orange to pink, making up every single color and more of the color pallet in a modern paint shop. They resembled a fairytale like garden from Alice of the Wonderland. White-tip reef shark seemingly asleep woke up and started scanning for the last final meal of the day. She did not care much about us, divers. Few minutes later eel in a mesmerizing serpentine movement swam below me. Seeing the creature in the water is absolutely stunning. We continued swimming with the multitude of fish among the corals very carefully not to disturb their world. Corals are slow growing and long-lived sea animals. They grow only meager few inches per year, and even a slight damage means years of growth lost. If left not damaged they can greet visitors for the next 800 years! When you get to know them you want to protect them and their fragile ecosystem. 
+
+![Swimming with the school of ..?]({{site.baseurl}}/assets/img/GBRNicoFishSchool.jpg)
+
+![Beautiful Coral Garden at the Twin Peaks]({{site.baseurl}}/assets/img/GBRGarden.jpg)
+
 Today we have two more snorkeling sessions and then back to land full of tropical birds and flying-foxes. 
 For the final snorkeling sessions the boat relocated to the Twin Peaks area. The name triggered nostalgic emotions of being away from home. Great Barrier Reef’s Twins Peaks as its, likely more famous San Francisco cousins, did not disappoint. There we spotted a curious and timid clown fish picking from its coral.
 
@@ -46,9 +59,9 @@ The overnight reef tours are run in a fairly ingenious way and highly flexible w
 Once back in Cairns we spent some time exploring the galleries that featured aboriginal arts. Northern Queensland has a sizable aboriginal community 4.4% (221,400 as of 2018) and is a great place to learn more about the First Nations people of Australia. 
 I wish we had more time to explore and learn. In the evening we headed back to the flying foxes colony. Being nocturnal, they fly away in search for food with the sunset. Looking closely in the binoculars we could see them waking up, spreading the wings, jumping between the branches. Around 6 pm the first foxes started to fly away. As the sun was getting lower more foxes were up in the sky, at first circling around the tree and then flying away into the city and into the void of the horizon. With sunset the sky was turning darker more so from the thousands of flying foxes rather than the lack of light. The full moon amplified the surreality of the scenery and elevated the feelings of superiority of the nature over humans. It was, perhaps, the most majestic manifestation of the power of nature I have experienced so far on our trip. The creatures, however, incredible and mesmerizing to watch, are loud and contribute to pollution of the water tanks with drinking water. It is no wonder that they get a lot of complaints from the locals. Yet, they are an important element of the local eco-system and serve as  principal pollinators of variety of plants. Without them the eco-system might not survive. I hope flying foxes continue their symbiotic relationship with the residents and tourists alike. 
 
-Useful links:
+Useful links: 
 
-Reef Encounters
-PADI (highly recommend getting certified prior to the trip)
-Flying Foxes
-Hostel
+[Reef Encounters]: https://reefencounter.com.au/
+[PADI (highly recommend getting certified prior to the trip)]: https://www.padi.com/courses/open-water-diver/
+[Spectacled Flying-Foxes]: https://cafnec.org.au/wildlife-issues/bats/
+[Freedom Hostels Cairns]: https://www.freedomhostels.com/cairns/
