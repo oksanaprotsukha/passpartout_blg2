@@ -56,19 +56,26 @@ h1 {
  * Add the correct display in IE 9-.
  * 1. Add the correct display in IE.
  */
-
-figcaption,
-figure,
-main { /* 1 */
-  display: block;
-}
+ 
+ figure,
+ main {
+   /* 1 */
+   display: block;
+ }
+ figure p {
+   margin-bottom: 0px;
+ }
+ figcaption {
+   margin-top: 3px;
+   text-align: center;
+ }
 
 /**
  * Add the correct margin in IE 8.
  */
 
 figure {
-  margin: 1em 40px;
+  margin: 0px;
 }
 
 /**
