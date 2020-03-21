@@ -1,6 +1,6 @@
 title: Passpartout
 # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
-masthead: logo4.png
+masthead: logo.png
 logo: Passpartout.co
 email: ok.protsukha@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
