@@ -1,4 +1,7 @@
 title: Passpartout
+# Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
+masthead: logo4.png
+logo: Passpartout.co
 email: ok.protsukha@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Travel Blog to document our trip across the world 
@@ -13,15 +16,15 @@ author-pic: OksanaNico_About.jpg
 about-author: Oksana and Nico - we are a couple and tech workers who embarked on a travel adventure to learn more about the world around us and bring the knowledge into our lives back home.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
+# email: # Add your Email address
+# phone: # Add your Phone number
 website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: oksanaprotsukha # Add your Github handle
+# linkedin: # Add your Linkedin handle
+# github: oksanaprotsukha # Add your Github handle
 twitter: '@passpartout' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+# facebook: # Add your Facebook handle
+# instagram: # Add your Instagram handle
+# pinterest: # Add your Pinterest handle
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
