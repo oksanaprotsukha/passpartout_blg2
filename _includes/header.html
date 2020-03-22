@@ -11,17 +11,15 @@
           <li><a href="{{site.baseurl}}/about">About</a></li>
         </ul>
       </nav>
-      <!--  {%- if site.masthead -%}
-        <a href="{{ "/" | relative_url }}"><img class="site-masthead" src="{{ site.masthead | relative_url }}" alt="{{ site.title | escape }}" /></a> -->
-      
+      {%- if site.masthead -%}
       <div class="site-masthead">
         <img src="{{site.baseurl}}/assets/img/{% if site.masthead %}{{site.masthead}} {% endif %}" width="55" height="55" alt="{{site.title}}">
         <span class="logo"><a href="{{site.baseurl}}/" >{{ site.title }}</a></span>
       </div>
       
-      <!--{%- else -%}
-        <p class="logo"><a href="{{site.baseurl}}/">{{ site.author }}</a></p>
-        {%- endif -%} -->
+      {%- else -%}
+        <p class="logo"><a href="{{site.baseurl}}/">{{ site.title }}</a></p>
+        {%- endif -%}
       <div class="search-icon-container">
         <span class="search-icon"><a><i class="fa fa-search" aria-hidden="true"></i></a></span>
       </div>
